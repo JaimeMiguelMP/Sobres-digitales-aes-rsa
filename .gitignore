@@ -8,3 +8,6 @@ venv/
 *.jpg
 *.png
 *.pdf
+sobres/
+salida/
+claves/
